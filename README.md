@@ -5,4 +5,4 @@ This is a demo readme file This is Modified second file
 local done
 
 # created a new branch
-from the main or in the new branch
+from the main branch
