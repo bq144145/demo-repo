@@ -5,4 +5,7 @@ This is a demo readme file This is Modified second file
 local done
 
 # created a new branch
-from the main:new branch
+from the main or in the new branch
+
+# one more test in a new branch
+git update test in new branch
